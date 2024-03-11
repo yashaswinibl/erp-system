@@ -1,3 +1,4 @@
+![res2](https://github.com/yashaswinibl/erp-system/assets/114874487/f6764f53-c92b-4ff8-83d3-13731eb6ca06)
 ![edit](https://github.com/yashaswinibl/erp-system/assets/114874487/07d41cd0-e434-44aa-a6ce-aa981505d7d2)
 ![add](https://github.com/yashaswinibl/erp-system/assets/114874487/a5c1d9f4-6aff-45be-bcb0-aac84a0cc6e2)
 ![sales](https://github.com/yashaswinibl/erp-system/assets/114874487/0c5e2bae-eafa-419e-ad85-1d4f6fa9a714)
