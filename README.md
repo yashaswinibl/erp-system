@@ -6,7 +6,7 @@ ERP System with React
 **Project Overview:**
 
 The ERP System with React is a simplified interface for managing key aspects of a business, including product management, order management, and dashboard overview. This project is built using React, React Router, and Material-UI for the front-end interface.
-![res3](https://github.com/yashaswinibl/erp-system/assets/114874487/d0af69e3-947e-489c-a7d0-fcb81d6f0e59)
+![res1](https://github.com/yashaswinibl/erp-system/assets/114874487/44f2bcf2-f841-4b71-af41-10af9cbb06de)
 
 **Features:**
 
